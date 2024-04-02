@@ -3,7 +3,7 @@ app-analytics-services.com
 .weibo.cn
 .tgfcer.com
 .nga.cn
-+.178.cn
++.178.com
 .saraba1st.com
 .segment.io
 .snapdrop.net
