@@ -27,3 +27,4 @@ fig-memo.com
 +.vercel.app
 +.feeded.xyz
 +.yande.re
++.rsshub.app
