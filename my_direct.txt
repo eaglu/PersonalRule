@@ -1,3 +1,4 @@
++.segment.io
 +.snapdrop.net
 yacd.haishan.me
 +.gofile.io
