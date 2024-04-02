@@ -1,9 +1,4 @@
 +.v2ex.com
-app-analytics-services.com
-.launchdarkly.com
-+.appsflyer.com
-+.sentry.io
-+.segment.io
 +.ipinfo.io
 apiv1.v27qae.com
 +.mangafuna.xyz
@@ -26,7 +21,6 @@ api.swiftgram.app
 i.pixiv.re
 +.itch.io
 +.kemono.su
-+.googleadservices.com
 api.smoot.apple.com
 api.smoot.apple.cn
 fig-memo.com
