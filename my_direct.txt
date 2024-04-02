@@ -5,3 +5,4 @@ lanfanapp.com
 +.xiachufang.com
 +.konami.net
 .hpoi.net
+.xiachufang.com
