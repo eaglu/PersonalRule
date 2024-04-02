@@ -16,4 +16,4 @@ lanfanapp.com
 .xiachufang.com
 pijin.im
 +.xiaoyuzhoufm.com
-xyzcdn.net
++.xyzcdn.net
