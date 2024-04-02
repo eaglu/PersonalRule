@@ -1,3 +1,4 @@
++.appsflyer.com
 +.segment.io
 +.ipinfo.io
 apiv1.v27qae.com
