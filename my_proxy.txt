@@ -28,3 +28,10 @@ fig-memo.com
 +.feeded.xyz
 +.yande.re
 +.rsshub.app
+
++.e-hentai.org
++.ehgt.org
++.ehwiki.org
++.exhentai.org
++.hath.network
++.hentaiverse.org
