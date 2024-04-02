@@ -19,7 +19,7 @@ e-hentai.org
 +.exhentai.org
 +.bgm.tv
 +.g.doubleclick.net
-host-keyword, moeyo
+.moeyo.com
 +.hanime1.me
 api.swiftgram.app
 i.pixiv.re
