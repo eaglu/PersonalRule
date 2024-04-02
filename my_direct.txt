@@ -1,4 +1,8 @@
 app-analytics-services.com
+.sinaimg.cn
+.weibo.cn
++.nga.cn
+.saraba1st.com
 +.segment.io
 +.snapdrop.net
 yacd.haishan.me
