@@ -2,5 +2,4 @@ app-analytics-services.com
 .launchdarkly.com
 +.appsflyer.com
 +.sentry.io
-+.segment.io
 +.googleadservices.com
