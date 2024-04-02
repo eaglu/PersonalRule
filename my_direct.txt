@@ -1,4 +1,5 @@
 app-analytics-services.com
+.launchdarkly.com
 .sinaimg.cn
 .weibo.cn
 .tgfcer.com
