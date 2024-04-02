@@ -2,10 +2,10 @@ app-analytics-services.com
 .sinaimg.cn
 .weibo.cn
 .tgfcer.com
-+.nga.cn
+.nga.cn
 .saraba1st.com
-+.segment.io
-+.snapdrop.net
+.segment.io
+.snapdrop.net
 yacd.haishan.me
 +.gofile.io
 lanfanapp.com
