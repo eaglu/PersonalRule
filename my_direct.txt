@@ -1,3 +1,4 @@
++.gofile.io
 lanfanapp.com
 +.xiachufang.com
 +.konami.net
