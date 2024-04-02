@@ -1,0 +1,27 @@
+search.arc.net
+lanfanapp.com
++.skk.moe
++.xiachufang.com
+receiptcheck.quantumult.app
+api.asmr-200.com
++.asmr.one
+ehgt.org
++.konami.net
+e-hentai.org
++.hath.network
++.exhentai.org
++.bgm.tv
++.g.doubleclick.net
+host-keyword, moeyo
++.hanime1.me
+api.swiftgram.app
+i.pixiv.re
++.itch.io
++.kemono.su
++.googleadservices.com
+api.smoot.apple.com
+api.smoot.apple.cn
+fig-memo.com
++.vercel.app
++.feeded.xyz
++.yande.re
