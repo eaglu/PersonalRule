@@ -1,6 +1,7 @@
 app-analytics-services.com
 .launchdarkly.com
 +.appsflyer.com
++.sentry.io
 +.segment.io
 +.ipinfo.io
 apiv1.v27qae.com
