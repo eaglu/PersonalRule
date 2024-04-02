@@ -1,3 +1,4 @@
+.launchdarkly.com
 +.appsflyer.com
 +.segment.io
 +.ipinfo.io
