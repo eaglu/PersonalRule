@@ -14,3 +14,4 @@ lanfanapp.com
 +.konami.net
 .hpoi.net
 .xiachufang.com
+pijin.im
