@@ -4,3 +4,4 @@ yacd.haishan.me
 lanfanapp.com
 +.xiachufang.com
 +.konami.net
+.hpoi.net
