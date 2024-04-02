@@ -1,4 +1,3 @@
-.launchdarkly.com
 +.appsflyer.com
 +.sentry.io
 +.googleadservices.com
