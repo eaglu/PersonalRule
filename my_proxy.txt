@@ -20,7 +20,6 @@ e-hentai.org
 +.hath.network
 +.exhentai.org
 +.bgm.tv
-+.g.doubleclick.net
 .moeyo.com
 +.hanime1.me
 api.swiftgram.app
