@@ -5,4 +5,4 @@
 .adsmoloco.com
 .gain-ads.com
 .dynalist.jp
-ads-pixiv.net
+.ads-pixiv.net
