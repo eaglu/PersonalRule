@@ -3,3 +3,6 @@
 .fivecdm.com
 .socdm.com
 .adsmoloco.com
+.gain-ads.com
+.dynalist.jp
+ads-pixiv.net
