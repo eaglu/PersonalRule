@@ -1,2 +1,4 @@
 +.googleadservices.com
 .amazon-adsystem.com
+.fivecdm.com
+.socdm.com
