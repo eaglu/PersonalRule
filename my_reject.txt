@@ -6,3 +6,4 @@
 .gain-ads.com
 .dynalist.jp
 .ads-pixiv.net
+.ca-conv.jp
