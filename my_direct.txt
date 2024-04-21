@@ -20,4 +20,5 @@ pijin.im
 +.xyzcdn.net
 +.appsflyer.com
 +.sentry.io
-ghproxy.com.qq.com
+ghproxy.com
++.qq.com
