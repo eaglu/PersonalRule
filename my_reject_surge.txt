@@ -1,3 +1,4 @@
+.hf.space
 .appsflyer.com
 .sentry.io
 .segment.io
