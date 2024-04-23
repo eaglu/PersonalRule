@@ -1,3 +1,5 @@
++.appsflyer.com
++.sentry.io
 .segment.io
 app-analytics-services.com
 .launchdarkly.com
