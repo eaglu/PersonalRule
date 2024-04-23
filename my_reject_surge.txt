@@ -1,0 +1,14 @@
+.appsflyer.com
+.sentry.io
+.segment.io
+app-analytics-services.com
+.launchdarkly.com
+.googleadservices.com
+.amazon-adsystem.com
+.fivecdm.com
+.socdm.com
+.adsmoloco.com
+.gain-ads.com
+.dynalist.jp
+.ads-pixiv.net
+.ca-conv.jp
