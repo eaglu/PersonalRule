@@ -4,7 +4,6 @@
 .nga.cn
 +.178.com
 .saraba1st.com
-.segment.io
 .snapdrop.net
 yacd.haishan.me
 +.gofile.io
