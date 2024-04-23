@@ -15,7 +15,5 @@ lanfanapp.com
 pijin.im
 +.xiaoyuzhoufm.com
 +.xyzcdn.net
-+.appsflyer.com
-+.sentry.io
 ghproxy.com
 +.qq.com
