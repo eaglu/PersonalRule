@@ -1,0 +1,31 @@
+
+DOMAIN,dns.weixin.qq.com // Added for: http://dns.weixin.qq.com/mmtls/21b37e16
+DOMAIN,googleads.g.doubleclick.net // Added for: googleads.g.doubleclick.net:443
+DOMAIN-SUFFIX,appsflyersdk.com // Added for: nfchib-cdn-settings.appsflyersdk.com:443
+DOMAIN-SUFFIX,appsflyersdk.com // Added for: nfchib-cdn-settings.appsflyersdk.com:443
+DOMAIN,analytics.adjust.io // Added for: analytics.adjust.io:443
+DOMAIN-SUFFIX,umengcloud.com // Added for: cnlogs.umengcloud.com:443
+DOMAIN,api.statsig.com // Added for: api.statsig.com:443
+DOMAIN-SUFFIX,getui.net // Added for: sdk.open.talk.getui.net:5224
+DOMAIN,sentry.ainopara.com // Added for: sentry.ainopara.com:443
+DOMAIN,example.com // Added for: example.com:443
+DOMAIN,dns.google // Added for: dns.google:443
+
+DOMAIN-SUFFIX,bugsnag.com // Added for: 69c1dc7a02204a66c88240e46bcd4b46.otlp.bugsnag.com:443
+DOMAIN-SUFFIX,umsns.com // Added for: log.umsns.com:443
+DOMAIN,lng.xiaohongshu.com // Added for: lng.xiaohongshu.com:443
+DOMAIN,lng.xiaohongshu.com // Added for: lng.xiaohongshu.com:443
+DOMAIN,api.liquidlink.cn // Added for: api.liquidlink.cn:443
+DOMAIN-SUFFIX,xinqiucc.com // Added for: xinqiucc.com:443
+DOMAIN-SUFFIX,googletagmanager.com // Added for: www.googletagmanager.com:443
+DOMAIN-SUFFIX,google-analytics.com // Added for: www.google-analytics.com:443
+DOMAIN,sp0.baidu.com // Added for: sp0.baidu.com:443
+DOMAIN,graph.facebook.com // Added for: graph.facebook.com:443
+DOMAIN,ads-img-al.xhscdn.com // Added for: ads-img-al.xhscdn.com:443
+DOMAIN,ads-img-qc.xhscdn.com // Added for: ads-img-qc.xhscdn.com:443
+DOMAIN,ads-video-al.xhscdn.com // Added for: ads-video-al.xhscdn.com:443
+DOMAIN,ads-vp5.xhscdn.com // Added for: ads-vp5.xhscdn.com:443
+DOMAIN,growth-img.xhscdn.com // Added for: growth-img.xhscdn.com:443
+DOMAIN,sns-webpic.xhscdn.com // Added for: sns-webpic.xhscdn.com:443
+DOMAIN,xhslive-video.xhscdn.com // Added for: xhslive-video.xhscnd.com:443
+DOMAIN,optimus-ads-ykx.amap.com // Added for: optimus-ads-ykx.amap.com:443
