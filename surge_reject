@@ -28,4 +28,90 @@ DOMAIN,ads-vp5.xhscdn.com // Added for: ads-vp5.xhscdn.com:443
 DOMAIN,growth-img.xhscdn.com // Added for: growth-img.xhscdn.com:443
 DOMAIN,sns-webpic.xhscdn.com // Added for: sns-webpic.xhscdn.com:443
 DOMAIN,xhslive-video.xhscdn.com // Added for: xhslive-video.xhscnd.com:443
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,segment.io
+DOMAIN,app-analytics-services.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,fivecdm.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,adsmoloco.com
+DOMAIN-SUFFIX,gain-ads.com
+DOMAIN-SUFFIX,dynalist.jp
+DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,ca-conv.jp
+DOMAIN,app-measurement.com
+DOMAIN,ios.bugly.qq.com
+DOMAIN,cdn-settings.segment.com
+DOMAIN,tpstelemetry.tencent.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN,in.appcenter.ms
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN,ulogs.umengcloud.com
+DOMAIN,dataflow.biliapi.com
+DOMAIN,cm.bilibili.com
+DOMAIN,pgdt.gtimg.cn
+DOMAIN,ca.iadsdk.apple.com
+DOMAIN,pingma.qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN,tangram.e.qq.com
+DOMAIN,astrategy.beacon.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN,sdkconfig.video.qq.com
+DOMAIN-SUFFIX,trace.qq.com
+DOMAIN,rdelivery.qq.com
+DOMAIN,tangram-config.gdt.qq.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jpush.io
+DOMAIN-SUFFIX,jpush-ipv6.cn
+DOMAIN,api.share.baidu.com
+DOMAIN,easytomessage.com
+DOMAIN,hm.baidu.com
+DOMAIN,sdkreport.e.qq.com
+DOMAIN,wxs.qq.com
+DOMAIN,adpai.thepaper.cn
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,beacon.qq.com
+DOMAIN,audid-api.taobao.com
+DOMAIN,hmma.baidu.com
+DOMAIN,dxp.baidu.com
+DOMAIN,wxa.wxs.qq.com
+DOMAIN,wxsnsencsvp.wxs.qq.com
+DOMAIN,wxsnsdythumb.wxs.qq.com
+DOMAIN,tianshu.gtimg.cn
+DOMAIN,zxid-m.mobileservice.cn
+DOMAIN,klink.volceapplog.com
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,httpdns.alicdn.com
+DOMAIN,open.kuaishouzt.com
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,d3g.qq.com
+DOMAIN,aegis.qq.com
+DOMAIN,ylog.huya.com
+DOMAIN,vvebo.vip // Added for: vvebo.vip:443
+DOMAIN,sdk.e.qq.com // Added for: sdk.e.qq.com:443
+DOMAIN-SUFFIX,e.kuaishou.com // Added for: open.e.kuaishou.com:443
+DOMAIN,xlog.jd.com // Added for: xlog.jd.com:443
+DOMAIN,wspeed.qq.com // Added for: wspeed.qq.com:443
+DOMAIN,wsapi.huya.com // Added for: wsapi.huya.com:443
+DOMAIN,p.l.qq.com // Added for: p.l.qq.com:443
+DOMAIN,appsupport.qq.com // Added for: appsupport.qq.com:443
+DOMAIN,analytics.adjust.com // Added for: analytics.adjust.com:443
+DOMAIN-SUFFIX,https // Added for: https:443
+DOMAIN,firebaselogging-pa.googleapis.com // Added for: firebaselogging-pa.googleapis.com:443
+DOMAIN-SUFFIX,bance.jp
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN,rmonitor.qq.com // Added for: rmonitor.qq.com:443
+DOMAIN-SUFFIX,applovin.com // Added for: d.applovin.com:443
+DOMAIN,wximg.wxs.qq.com // Added for: wximg.wxs.qq.com:443
+DOMAIN,analytics.twitter.com // Added for: analytics.twitter.com:443
+DOMAIN,ads-api.twitter.com // Added for: ads-api.twitter.com:443
+DOMAIN,ylog.huya.com // Added for: ylog.huya.com:443
+DOMAIN,applog.uc.cn // Added for: applog.uc.cn:443
+DOMAIN,px.ucweb.com // Added for: px.ucweb.com:443
+DOMAIN-SUFFIX,getui.com // Added for: sdk.open.talk.getui.com:5224
+DOMAIN-SUFFIX,gepush.com // Added for: sdk.open.talk.gepush.com:5224
+DOMAIN,firebaseinstallations.googleapis.com // Added for: firebaseinstallations.googleapis.com:443
+DOMAIN,firebaseappcheck.googleapis.com // Added for: firebaseappcheck.googleapis.com:443
+
 DOMAIN,optimus-ads-ykx.amap.com // Added for: optimus-ads-ykx.amap.com:443
