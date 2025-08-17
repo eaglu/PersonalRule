@@ -1,0 +1,119 @@
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN,pijin.im
+DOMAIN-SUFFIX,qweather.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,saraba1st.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN,g.alicdn.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,volceapplog.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,gcores.com
+DOMAIN-SUFFIX,faradayfuturecn.com
+DOMAIN-SUFFIX,sov2ex.com
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,runningcheese.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN,easytomessage.com
+DOMAIN-SUFFIX,indienova.com
+DOMAIN-SUFFIX,cowlevel.net
+DOMAIN-SUFFIX,imgkr.com
+DOMAIN,pic1.cdncl.net
+DOMAIN,static.cdncl.net
+DOMAIN-SUFFIX,vzuu.com
+DOMAIN-SUFFIX,tfogc.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wmupd.com
+DOMAIN-SUFFIX,laohu.com
+DOMAIN-SUFFIX,7littlemen.com
+DOMAIN-SUFFIX,appinn.com
+DOMAIN,assets.giocdn.com
+DOMAIN,cloudcache.tencent-cloud.com
+DOMAIN-SUFFIX,landianne.com
+DOMAIN,ue.17173cdn.com
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,zjgwy.org
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,xiaojukeji.com
+DOMAIN-SUFFIX,bilicomic.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,effirst.com
+DOMAIN,media.xyzcdn.net
+DOMAIN,bts-image.xyzcdn.net
+DOMAIN-SUFFIX,tencentcs.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,gzhc365.com
+DOMAIN-SUFFIX,mouldbbs.com
+DOMAIN-SUFFIX,jbzj.com
+DOMAIN-SUFFIX,upqzfile.com
+DOMAIN-SUFFIX,adutp.com
+DOMAIN-SUFFIX,gwy.com
+DOMAIN-SUFFIX,qzzn.com
+DOMAIN,cf-ns.com
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,nhfsyy.com
+DOMAIN-SUFFIX,zwjk.com
+DOMAIN,ngabbs.com
+DOMAIN,cdn.lizhi.fm
+DOMAIN-SUFFIX,gfp.tencent-cloud.com
+DOMAIN-SUFFIX,jdapi.com
+DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,tengmed.com
+DOMAIN-SUFFIX,hpoi.net
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytecdntp.com
+DOMAIN-SUFFIX,iyingdi.com
+DOMAIN-SUFFIX,u7u9.com
+DOMAIN-SUFFIX,sunbelife.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,25ku.com
+DOMAIN-SUFFIX,bjmantis.net
+DOMAIN,qiyukf.com
+DOMAIN-SUFFIX,huxiu.com
+DOMAIN-SUFFIX,chunyuyisheng.com
+DOMAIN-SUFFIX,ynfwyy.com
+DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,readbot.tech
+DOMAIN-SUFFIX,code-abc.com
+DOMAIN-SUFFIX,dafork.com
+DOMAIN-SUFFIX,dzwww.net
+DOMAIN-SUFFIX,aheading.com
+DOMAIN-SUFFIX,78dm.net
+DOMAIN-SUFFIX,ajiot.top
+DOMAIN-SUFFIX,helloimg.com
+DOMAIN,res.cdn.office.net
+DOMAIN,api.trakt.tv
+DOMAIN,media.nijigem.by
+DOMAIN,sl.mangafuna.xyz
+DOMAIN-SUFFIX,api.mangadex.org
+DOMAIN,snapdrop.net
+DOMAIN,vod-ap-aoc.tv.apple.com
+DOMAIN,gassets.cuto.app // Added for: gassets.cuto.app:443
+DOMAIN-SUFFIX,weibocdn.com // Added for: http://f.video.weibocdn.com/o0/UYBWqvH3lx08gdf4FTGE010412005Jfc0E010.mp4?label=mp4_720p&template=720x1278.24.0&ori=0&ps=1CwnkDw1GXwCQx&Expires=1720259435&ssig=0CzwByS4k%2B&KID=unistore,video
+DOMAIN-SUFFIX,aliyundrive.net // Added for: cn-beijing-data.aliyundrive.net:443
+DOMAIN,cn.bing.com // Added for: cn.bing.com:443
+DOMAIN,googleads.g.doubleclick.net // Added for: googleads.g.doubleclick.net:443
+DOMAIN-SUFFIX,solidot.org // Added for: www.solidot.org:443
+DOMAIN-SUFFIX,bydhaiyang.com // Added for: yunservice-cn.bydhaiyang.com:443
+DOMAIN-SUFFIX,getpodcast.xyz // Added for: getpodcast.xyz:443
+DOMAIN-SUFFIX,rc-backup.com // Added for: https://api.rc-backup.com/v1/subscribers/$PLAnonymousID%3A05EDD774-B6B3-48BC-9F47-2C1C2540E4C7/offerings
+DOMAIN-SUFFIX,floatingislandapps.com // Added for: apicn.floatingislandapps.com:443
+DOMAIN-SUFFIX,mangacopy.com // Added for: mangacopy.com:443
+DOMAIN-SUFFIX,amap.com // Added for: c3-ykx.amap.com:443
+DOMAIN-SUFFIX,byd.com // Added for: 2025011613580000.mpaas.byd.com:443
+DOMAIN-SUFFIX,stage1st.com // Added for: avatar.stage1st.com:443
+DOMAIN-SUFFIX,alibaba.com // Added for: https://poplayer.template.alibaba.com/2452aa443cff4aa688fc1889a7280d2f.json
+DOMAIN-SUFFIX,zssl.com // Added for: zssl.com:443
