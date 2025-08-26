@@ -105,7 +105,6 @@ DOMAIN,gassets.cuto.app // Added for: gassets.cuto.app:443
 DOMAIN-SUFFIX,weibocdn.com // Added for: http://f.video.weibocdn.com/o0/UYBWqvH3lx08gdf4FTGE010412005Jfc0E010.mp4?label=mp4_720p&template=720x1278.24.0&ori=0&ps=1CwnkDw1GXwCQx&Expires=1720259435&ssig=0CzwByS4k%2B&KID=unistore,video
 DOMAIN-SUFFIX,aliyundrive.net // Added for: cn-beijing-data.aliyundrive.net:443
 DOMAIN,cn.bing.com // Added for: cn.bing.com:443
-DOMAIN,googleads.g.doubleclick.net // Added for: googleads.g.doubleclick.net:443
 DOMAIN-SUFFIX,solidot.org // Added for: www.solidot.org:443
 DOMAIN-SUFFIX,bydhaiyang.com // Added for: yunservice-cn.bydhaiyang.com:443
 DOMAIN-SUFFIX,getpodcast.xyz // Added for: getpodcast.xyz:443
