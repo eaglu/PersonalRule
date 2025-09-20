@@ -118,3 +118,4 @@ DOMAIN-SUFFIX,stage1st.com // Added for: avatar.stage1st.com:443
 DOMAIN-SUFFIX,alibaba.com // Added for: https://poplayer.template.alibaba.com/2452aa443cff4aa688fc1889a7280d2f.json
 DOMAIN-SUFFIX,zssl.com // Added for: zssl.com:443
 DOMAIN,nga.bugenzhao.com
+DOMAIN-SUFFIX,ngacn.cc
