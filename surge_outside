@@ -345,5 +345,10 @@ DOMAIN,getpocket.com // Added for: getpocket.com:443
 DOMAIN,api.ndsxfkjfvhzdsfio.quest // Added for: https://api.ndsxfkjfvhzdsfio.quest/link/nORuOucQQ57ZaPI1?clash=3
 DOMAIN-SUFFIX,follow.is // Added for: api.follow.is:443
 DOMAIN-SUFFIX,clawcloudrun.com // Added for: zqosfpfutptj.us-east-1.clawcloudrun.com:443
+IP-CIDR,5.28.195.1/32 // Added for: 5.28.195.1:5222
 DOMAIN,zqosfpfutptj.us-east-1.clawcloudrun.com // Added for: zqosfpfutptj.us-east-1.clawcloudrun.com:443
 DOMAIN-SUFFIX,javrate.com // Added for: tracker.javrate.com:443
+DOMAIN-SUFFIX,notion.com // Added for: api.notion.com:443
+DOMAIN,api.eu.iterable.com // Added for: api.eu.iterable.com:443
+DOMAIN,prodregistryv2.org // Added for: prodregistryv2.org:443
+DOMAIN-SUFFIX,killcovid2021.com 

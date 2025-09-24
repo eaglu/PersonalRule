@@ -106,6 +106,7 @@ DOMAIN,gassets.cuto.app // Added for: gassets.cuto.app:443
 DOMAIN-SUFFIX,weibocdn.com // Added for: http://f.video.weibocdn.com/o0/UYBWqvH3lx08gdf4FTGE010412005Jfc0E010.mp4?label=mp4_720p&template=720x1278.24.0&ori=0&ps=1CwnkDw1GXwCQx&Expires=1720259435&ssig=0CzwByS4k%2B&KID=unistore,video
 DOMAIN-SUFFIX,aliyundrive.net // Added for: cn-beijing-data.aliyundrive.net:443
 DOMAIN,cn.bing.com // Added for: cn.bing.com:443
+DOMAIN,googleads.g.doubleclick.net // Added for: googleads.g.doubleclick.net:443
 DOMAIN-SUFFIX,solidot.org // Added for: www.solidot.org:443
 DOMAIN-SUFFIX,bydhaiyang.com // Added for: yunservice-cn.bydhaiyang.com:443
 DOMAIN-SUFFIX,getpodcast.xyz // Added for: getpodcast.xyz:443
@@ -117,5 +118,11 @@ DOMAIN-SUFFIX,byd.com // Added for: 2025011613580000.mpaas.byd.com:443
 DOMAIN-SUFFIX,stage1st.com // Added for: avatar.stage1st.com:443
 DOMAIN-SUFFIX,alibaba.com // Added for: https://poplayer.template.alibaba.com/2452aa443cff4aa688fc1889a7280d2f.json
 DOMAIN-SUFFIX,zssl.com // Added for: zssl.com:443
-DOMAIN,nga.bugenzhao.com
-DOMAIN-SUFFIX,ngacn.cc
+IP-CIDR6,2403:300:a0a:3000::1e2/128 // Added for: [2403:300:a0a:3000::1e2]:123 (Port Map)
+IP-CIDR,129.226.107.29/32 // Added for: 129.226.107.29:443
+IP-CIDR,43.129.254.147/32 // Added for: 43.129.254.147:443
+IP-CIDR6,2403:300:a04:4000::c1/128 // Added for: [2403:300:a04:4000::c1]:443 (Port Map)
+DOMAIN-SUFFIX,ngacn.cc // Added for: http://img4.ngacn.cc/ngabbs/nga_classic/f/app//541.png
+DOMAIN,nga.bugenzhao.com // Added for: nga.bugenzhao.com:443
+IP-CIDR,163.181.35.187/32 // Added for: 163.181.35.187:443 (Port Map)
+IP-CIDR,163.181.78.137/32
