@@ -352,3 +352,4 @@ DOMAIN-SUFFIX,notion.com // Added for: api.notion.com:443
 DOMAIN,api.eu.iterable.com // Added for: api.eu.iterable.com:443
 DOMAIN,prodregistryv2.org // Added for: prodregistryv2.org:443
 DOMAIN-SUFFIX,killcovid2021.com 
+DOMAIN,conntest.nintendowifi.net
